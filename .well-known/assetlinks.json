@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.ionic.greengrowth",
+    "sha256_cert_fingerprints":
+    ["24:6C:27:00:9E:5C:BB:99:D4:C7:AD:60:72:3F:FF:94:D4:4D:75:C3:A0:D6:E9:A8:01:A0:AB:33:A8:24:38:06"]
+  }
+}]
